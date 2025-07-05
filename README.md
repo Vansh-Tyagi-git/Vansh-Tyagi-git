@@ -22,24 +22,22 @@
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vanshhh.sy/)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vanshtyagiit@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vanshhh.sy/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vanshtyagiit@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-tyagi-38464728a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Vansh-Tyagi-git)
+[![Leetcode](https://img.shields.io/badge/Leetcode-%23FFA116.svg?logo=Leetcode&logoColor=black)](https://leetcode.com/Vansh_System)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%23F44336.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Vansh_System)
 
 ---
 
-# 🚀 Featured Projects
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Vansh-Tyagi-git&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=Vansh-Tyagi-git&theme=tokyonight&hide_border=true)
 
-### 🎥 VedioChat  
-Real-time video chat with WebRTC + PeerJS + Socket.IO  
-👉 [VedioChat Repo](https://github.com/Vansh-Tyagi-git/VideoChat)
+---
 
-### 🗺️ MapIO  
-Live collaborative map using Leaflet & Express  
-🌍 [MapIO Live Demo](https://mapio-01.onrender.com)
+### ✍️ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
-### 🤖 n8n Chatbot Webhook  
-Connects chat frontend to n8n webhooks with automation logic  
-🧠 [n8n Chatbot Repo](https://github.com/Vansh-Tyagi-git/n8n-starter-chatbot)
-
-### 🌾 CropTech AI  
-AI system suggesting best crops based on land, weather, and economy
