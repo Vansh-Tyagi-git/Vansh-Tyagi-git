@@ -31,13 +31,6 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23F44336.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Vansh_System)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vanshtycfxt/)
 
-
----
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vansh-Tyagi-git&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=Vansh-Tyagi-git&theme=tokyonight&hide_border=true)
-
 ---
 
 ### ✍️ Random Dev Quote:
