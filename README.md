@@ -29,6 +29,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Vansh-Tyagi-git)
 [![Leetcode](https://img.shields.io/badge/Leetcode-%23FFA116.svg?logo=Leetcode&logoColor=black)](https://leetcode.com/Vansh_System)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23F44336.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Vansh_System)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/vanshtycfxt/)
+
 
 ---
 
